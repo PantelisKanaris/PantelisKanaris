@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pantelis Kanaris
+#Hi, I'm Pantelis Kanaris
 
 🎓 I'm a 4th-year Computer Science student at the **University of Cyprus (UCY)**  
 💻 Passionate about **embedded systems**, **backend development**, and **low-level programming**  
@@ -54,7 +54,6 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@ucy.ac.cy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pantelkan16@gmail.com)
 
 ---
