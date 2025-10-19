@@ -1,4 +1,4 @@
-#Hi, I'm Pantelis Kanaris
+# Hi, I'm Pantelis Kanaris
 
 🎓 I'm a 4th-year Computer Science student at the **University of Cyprus (UCY)**  
 💻 Passionate about **embedded systems**, **backend development**, and **low-level programming**  
