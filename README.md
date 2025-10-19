@@ -1,20 +1,20 @@
 # Hi, I'm Pantelis Kanaris
 
-🎓 I'm a 4th-year Computer Science student at the **University of Cyprus (UCY)**  
-💻 Passionate about **embedded systems**, **backend development**, and **low-level programming**  
-🚀 Currently exploring the **STM32 ecosystem** and diving deeper into **C/C++ for microcontrollers**
+ I'm a 4th-year Computer Science student at the **University of Cyprus (UCY)**  
+ Passionate about **embedded systems**, **backend development**, and **low-level programming**  
+ Currently exploring the **STM32 ecosystem** and diving deeper into **C/C++ for microcontrollers**
 
 ---
 
-### 🧠 About Me
-- 🔧 Experienced with **ESP** and **Arduino** ecosystems — building IoT and embedded projects  
-- 💡 Skilled in **C**, **C#**, **Java**, **Python**, and **JavaScript**  
-- 🧰 Love combining hardware and software to bring real-world systems to life  
-- 🌱 Learning more about **real-time systems**, **bare-metal programming**, and **firmware optimization**
+###  About Me
+-  Experienced with **ESP** and **Arduino** ecosystems — building IoT and embedded projects  
+-  Skilled in **C**, **C#**, **Java**, **Python**, and **JavaScript**  
+-  Love combining hardware and software to bring real-world systems to life  
+-  Learning more about **real-time systems**, **bare-metal programming**, and **firmware optimization**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 #### **Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -37,21 +37,21 @@
 
 ---
 
-### 🚧 Featured Projects
+###  Featured Projects
 -  [ESP32 Sensor Node](#) — Low-power IoT node using MQTT and Wi-Fi  
 -  [Arduino Data Logger](#) — Serial data collection with SD storage and RTC timestamping  
 -  [STM32 Motor Controller](#) — Real-time PWM control and feedback with PID tuning  
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 ![Pantelis's GitHub stats](https://github-readme-stats.vercel.app/api?username=panteliskanaris&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panteliskanaris&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=panteliskanaris&theme=radical)
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pantelkan16@gmail.com)
 
 ---
