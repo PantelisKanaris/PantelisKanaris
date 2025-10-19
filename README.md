@@ -38,9 +38,9 @@
 ---
 
 ### 🚧 Featured Projects
-- ⚙️ [ESP32 Sensor Node](#) — Low-power IoT node using MQTT and Wi-Fi  
-- 🔌 [Arduino Data Logger](#) — Serial data collection with SD storage and RTC timestamping  
-- 🧩 [STM32 Motor Controller](#) — Real-time PWM control and feedback with PID tuning  
+-  [ESP32 Sensor Node](#) — Low-power IoT node using MQTT and Wi-Fi  
+-  [Arduino Data Logger](#) — Serial data collection with SD storage and RTC timestamping  
+-  [STM32 Motor Controller](#) — Real-time PWM control and feedback with PID tuning  
 
 ---
 
