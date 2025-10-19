@@ -42,8 +42,6 @@
 - 🔌 [Arduino Data Logger](#) — Serial data collection with SD storage and RTC timestamping  
 - 🧩 [STM32 Motor Controller](#) — Real-time PWM control and feedback with PID tuning  
 
-*(Replace `#` with links to your repositories once public!)*
-
 ---
 
 ### 📊 GitHub Stats
